@@ -894,7 +894,7 @@ function kirimWA(_0x2e30fd) {
                         _0x339fab("0xe3", "(J@v") +
                         _0x339fab("0x122", "nmo]") +
                         location[_0x339fab("0x42", "0u7(")];
-            } else alert("id\x20not\x20found");
+            } else alert("id\x20tidak\x20ditemukan");
         }
         $(this)["attr"](_0x339fab("0x121", "aEwS"), _0x2ad9bd);
         var _0x49f2d8 = 0x3c0,
